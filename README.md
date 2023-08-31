@@ -7,11 +7,13 @@
 
 - ✍ I'm a application software developer.
 
-<br />
+</br>
+
 
 
 
 ## Skills:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   <img src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
