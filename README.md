@@ -1,11 +1,11 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
 <h1 align="center">Hi 👋, I'm Truong Vu</h1>
 <p align="center">
   <h3 align="center">A software programmer from Vietnam</h3>
+ <h4 align="center">  - ✍ I'm a application software developer. </h3>
 </p>
 
 
-- ✍ I'm a application software developer.
 
 </br>
 
@@ -28,8 +28,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainguyentruongvu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="lainguyentruongvu" />
-      <img src="https://github-readme-stats.vercel.app/api?username=lainguyentruongvu&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="lainguyentruongvu" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainguyentruongvu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="lainguyentruongvu" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lainguyentruongvu&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="lainguyentruongvu" width="100%" />
     </td>
     <td>
       <p align="center"> 
