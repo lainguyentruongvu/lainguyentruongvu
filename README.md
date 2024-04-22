@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">A software programmer from Vietnam</h3>
  <h4 align="center">  - ✍ I'm a application software developer. </h3>
-  <h4 align="center">  - ✍ I was  born 19/09/2003. </h3>
+  <h4 align="center">  - 🎂 I was  born 19/09/2003. </h3>
 </p>
 
 
