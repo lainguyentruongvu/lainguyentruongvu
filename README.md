@@ -33,7 +33,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://assets.pinterest.com/ext/embed.html?id=5277724558873822" alt="dev"/>
+        <img src="https://i.pinimg.com/originals/b2/87/c0/b287c0acd7043d05034d8b21e5f84492.gif" alt="dev" width="65%"/>
       </p>
     </td>
   </tr>
