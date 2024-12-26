@@ -33,7 +33,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://i.pinimg.com/originals/d9/32/df/d932df7f81cbfb6b3a3a2d86688fc626.gif" alt="dev" />
+        <img src="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474113crD/anh-gif-buon-cute_013931502.gif" alt="dev" />
       </p>
     </td>
   </tr>
